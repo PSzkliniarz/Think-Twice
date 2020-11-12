@@ -1,0 +1,77 @@
+.navbar {
+  margin-bottom: 30px;
+}
+
+p {
+  size: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+body {
+  text-align: center;
+}
+
+.teksty {
+  visibility: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.aktywacja {
+  text-align: right;
+  font-family: 'Abril Fatface', cursive;
+  cursor: pointer;
+}
+
+.aktywacja:hover {
+  color: lightslategray;
+}
+
+.naglowek {
+  margin: 50px;
+  color: black;
+}
+
+.row {
+  margin: auto;
+}
+
+.conteiner {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.ktest {
+  vertical-align: bottom;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+#instrukcja1 {
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
