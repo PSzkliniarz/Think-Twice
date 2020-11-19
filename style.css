@@ -75,3 +75,16 @@ footer {
   margin-left: 40px;
   margin-right: 40px;
 }
+
+@media (max-width:576px) {
+  .teksty{
+    visibility: visible ;
+  }
+}
+
+@media (max-width:1000px) {
+  .nav-elements{
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
